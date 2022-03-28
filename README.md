@@ -1,10 +1,11 @@
-<h1 align="center">Cruz Lucas - Monsterinhouse</h1>
+<h1 align="center">Cruz Lucas</h1>
 
 ### *Aca pongo pelotudeces que en realidad es mi info:*
 
-- Cruz Lucas
-- Esto es una lista
-- No me la voy a tomar enserio
+- AKA: Monsterihouse
+- AKA: TheFatMan
+- No tomar en serio nada de esta lista. O del archivo en general a partir de este punto
+- Testing Testing 
 - Si, efectivamente
 - Yendo no, llegando
 - ???
