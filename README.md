@@ -2,7 +2,7 @@
 
 ### *Aca pongo pelotudeces que en realidad es mi info:*
 
-- AKA: Monsterihouse
+- AKA: Monsterinhouse
 - AKA: TheFatMan
 - No tomar en serio nada de esta lista. O del archivo en general a partir de este punto
 - Testing Testing 
