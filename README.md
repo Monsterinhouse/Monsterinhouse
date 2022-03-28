@@ -1,6 +1,6 @@
-### 'ELLO MATE, WHAT'CHU DOING HERE
-
-### Aca pongo pelotudeces que en realidad es mi info:
+## Cruz Lucas - Monsterinhouse
+***
+### *Aca pongo pelotudeces que en realidad es mi info:*
 
 - Soy Lucas
 - Esto es una lista
@@ -8,6 +8,8 @@
 - Si, efectivamente
 - Yendo no, llegando
 - ???
+
+>The few, the proud. The saved, and the damned.
 
 ![fucking casual](https://steamuserimages-a.akamaihd.net/ugc/790859388868670945/16D1F30BE162701FC43CB7C4DF1E9B7AB1C1CF4D/)
 
