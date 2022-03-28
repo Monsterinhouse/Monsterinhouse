@@ -1,4 +1,4 @@
-## Cruz Lucas - Monsterinhouse
+## <center>Cruz Lucas - Monsterinhouse</center>
 ***
 ### *Aca pongo pelotudeces que en realidad es mi info:*
 
