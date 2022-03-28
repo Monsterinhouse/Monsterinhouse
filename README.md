@@ -1,7 +1,5 @@
 <h1 align="center">Cruz Lucas - Monsterinhouse</h1>
-
 ***
-
 ### *Aca pongo pelotudeces que en realidad es mi info:*
 
 - Cruz Lucas
