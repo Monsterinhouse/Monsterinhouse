@@ -1,16 +1,12 @@
 <h1 align="center">Cruz Lucas</h1>
 
-### *Aca pongo pelotudeces que en realidad es mi info:*
+### *Extremely poor and nonsensical version of my Resume*
 
 - AKA: Monsterinhouse
-- AKA: TheFatMan
-- No tomar en serio nada de esta lista. O del archivo en general a partir de este punto
-- Testing Testing 
-- Si, efectivamente
-- Yendo no, llegando
-- ???
+- Programmer at work, secret gun enthusiast at home.
+- Opinions are my own
 
->Profe, si ve esto, la foto y la descripcion entera esta por el chiste. Prometo que soy mas profesional en persona
+> Who dares, wins.
 
 ![fucking casual](https://steamuserimages-a.akamaihd.net/ugc/790859388868670945/16D1F30BE162701FC43CB7C4DF1E9B7AB1C1CF4D/)
 
