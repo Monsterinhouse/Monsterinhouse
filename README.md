@@ -1,4 +1,4 @@
-<h1 align="center">Cruz Lucas</h1>
+<h1 align="center">Lucas Cruz</h1>
 
 ### *Extremely poor and nonsensical version of my Resume*
 
@@ -8,7 +8,7 @@
 
 > Who dares, wins.
 
-![fucking casual](https://steamuserimages-a.akamaihd.net/ugc/790859388868670945/16D1F30BE162701FC43CB7C4DF1E9B7AB1C1CF4D/)
+![whatchu lookin at mofo](https://www.wallpaperflare.com/black-and-white-pulp-fiction-samuel-l-jackson-john-travolta-black-background-4000x2500-art-monochrome-hd-art-wallpaper-saesm)
 
 <!--
 **Monsterinhouse/Monsterinhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
