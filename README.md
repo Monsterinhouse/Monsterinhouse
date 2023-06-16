@@ -5,6 +5,7 @@
 - AKA: Monsterinhouse
 - Programmer at work, secret gun enthusiast at home.
 - Opinions are my own
+- Twitter: @Monsterinhouse
 
 > Who dares, wins.
 
