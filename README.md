@@ -1,10 +1,10 @@
-<h1 align="center">Lucas Cruz</h1>
+<h1 align="center">Monsterinhouse/Lucas</h1>
 
-### *Extremely poor and nonsensical version of my Resume*
+### *Extremely poor and nonsensical Resume:*
 
-- AKA: Monsterinhouse
-- Programmer at work, secret gun enthusiast at home.
-- Opinions are my own
+- Programmer, music lover, gun & meme enthusiast.
+- Opinions are my own.
+- Fuck AI. Sideways
 - Twitter: @Monsterinhouse
 
 > Who dares, wins.
