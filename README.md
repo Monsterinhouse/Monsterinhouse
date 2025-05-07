@@ -9,8 +9,6 @@
 
 > Who dares, wins.
 
-![whatchu lookin at mofo](https://c4.wallpaperflare.com/wallpaper/126/608/994/black-and-white-pulp-fiction-samuel-l-jackson-john-travolta-black-background-4000x2500-art-monochrome-hd-art-wallpaper-preview.jpg)
-
 <!--
 **Monsterinhouse/Monsterinhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
